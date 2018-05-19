@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/gagan0183/learn-node-course1#readme",
   "dependencies": {
+    "express": "^4.16.3",
     "lodash": "^4.17.10"
   }
 }
